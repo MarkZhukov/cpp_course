@@ -1,0 +1,3 @@
+/Users/lucky.mz/Documents/GitHub/cpp_course/second/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lucky.mz/Documents/GitHub/cpp_course/second/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucky.mz/Documents/GitHub/cpp_course/second/cmake-build-debug/CMakeFiles/second.dir
